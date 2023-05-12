@@ -1,8 +1,1 @@
-GPNATI
----
-
-__GUN Peer Node, API & Test Interface__
-
-
-
-
+# gun-test-p2p-conect
